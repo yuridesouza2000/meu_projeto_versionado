@@ -1,2 +1,4 @@
 # meu_projeto_versionado
-Teste 
+body(
+color: blue;
+body)  
